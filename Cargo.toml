@@ -6,7 +6,7 @@ authors = ["René Perschon <rperschon85@gmail.com>"]
 license = "MIT"
 description = "Library to recursively load files via references in the files"
 homepage = "https://github.com/Leopard2A5/recursive-file-loader"
-documentation = "https://docs.rs/latest/recursive-file-loader"
+documentation = "https://docs.rs/recursive-file-loader/latest"
 repository = "https://github.com/Leopard2A5/recursive-file-loader"
 readme = "README.md"
 
