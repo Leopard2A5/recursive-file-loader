@@ -8,7 +8,7 @@ description = "Library to recursively load files via references in the files"
 homepage = "https://github.com/Leopard2A5/recursive-file-loader"
 documentation = "https://github.com/Leopard2A5/recursive-file-loader"
 repository = "https://github.com/Leopard2A5/recursive-file-loader"
-readme = "../README.md"
+readme = "README.md"
 
 [dependencies]
 lazy-regex = "3.0.2"
