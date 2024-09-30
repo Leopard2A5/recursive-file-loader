@@ -1,6 +1,6 @@
 [package]
 name = "recursive-file-loader"
-version = "1.0.3"
+version = "1.0.4"
 edition = "2021"
 authors = ["René Perschon <rperschon85@gmail.com>"]
 license = "MIT"
