@@ -17,4 +17,4 @@ thiserror = "2.0.3"
 [dev-dependencies]
 indoc = "2.0.4"
 rstest = "0.26.1"
-temp-dir = "0.1.11"
+temp-dir = "0.2.0"
